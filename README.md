@@ -58,4 +58,7 @@ Turns the relay on or off according to the temperature and relative humidity mea
     > * Alarm and automation stress-test systems require programmed set-point changes to ensure that sensors, actuators and notifications operate correctly in rapid transitions.
     > * This technique is also used in training and demonstrations to demonstrate the robustness of a monitoring and automatic activation system.  
 
-    <video src="./docs/activate_relay_by_sinusoidal_variation.mp4" controls></video>
+    https://github.com/user-attachments/assets/ea020552-cffd-42fc-8588-db2191b303ce
+
+
+
